@@ -2,9 +2,9 @@
 # Thanks to everyone for contributing and we hope it was a good learning experience on open source for you all.
 
 # ✨ hacktoberfest2023 💫
-
-![banner]([https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*McOGR_vW3LivYNor.png))
-
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*McOGR_vW3LivYNor.png" width="600" height="300"/>
+</div>
 ## 🌱 Contributing to hacktoberfest 2023
 
 ### Welcome to hacktoberfest 2021 Public Repository. 👨🏻‍💻
