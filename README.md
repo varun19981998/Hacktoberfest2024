@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*McOGR_vW3LivYNor.png" width="600" height="300"/>
 </div>
-# 🌱Contributing to hacktoberfest 2023
+###🌱Contributing to hacktoberfest 2023
 
 ### Welcome to hacktoberfest 2023 Public Repository. 👨🏻‍💻
 <p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
