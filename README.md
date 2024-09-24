@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*McOGR_vW3LivYNor.png" width="600" height="300"/>
 </div>
-🌱Contributing to hacktoberfest 2023
+🌱Contributing to hacktoberfest 2024
 
 ### Welcome to hacktoberfest 2023 Public Repository. 👨🏻‍💻
 <p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
@@ -31,11 +31,11 @@ https://hacktoberfest.digitalocean.com/</p>
 * Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone the forked repository to your local machine.
 ```markdown
-git clone https://github.com/your-username/HacktoberFest2023.git
+git clone https://github.com/your-username/HacktoberFest2024.git
 ```
 * change the present working directory
 ```markdown
-cd HacktoberFest2023
+cd HacktoberFest2024
 ```
 * Add/Create your project to the specific folder as described in what you can contribute section.
 * Make a new branch
